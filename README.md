@@ -27,4 +27,4 @@ Synthetically generated using Anthropic Claude AI. 320 records across 40 drugs, 
 Data is synthetically generated for learning purposes only. Does not represent actual inventory data of any company.
 
 ## Dashboard 
-
+https://github.com/KirtiShevade/Pharma-Supply-Chain/blob/main/Pharma%20Inventory%20Critical%20Low%20Flagging.jpg
